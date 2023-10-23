@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @acresposcs
-- 👀 I’m interested in space engineering, software and finance.
-- 🌱 I’m currently imporving my coding skills.
-- 💞️ I’m looking to collaborate on any interesting project about space or finance!
+- 👀 I’m interested in backend development currently improving my coding skills.
+- 💞️ I’m looking to collaborate on any interesting project about tech or finance!
 - 📫 How to reach me @Linkedin Alvaro Crespo Serrano
 
 <!---
