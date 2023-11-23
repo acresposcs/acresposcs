@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @acresposcs
-- 👀 I’m interested in backend development currently improving my coding skills.
-- 💞️ I’m looking to collaborate on any interesting project about tech or finance!
 - 📫 How to reach me @Linkedin Alvaro Crespo Serrano
 
 <!---
